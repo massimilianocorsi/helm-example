@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-27T16:59:19.581817935+02:00"
+    description: A Helm chart for Kubernetes
+    digest: e312f658e77caa9a1f431ab896596ae58de5b239b76f2681dfbd7a0a83b842c3
+    name: my-app
+    type: application
+    urls:
+    - http://10.10.30.186:7990/projects/CCGDEV/repos/infra/browse/configurations/cluster-miapp/helm/my-app/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-27T16:59:19.581144183+02:00"
