@@ -9,6 +9,6 @@ entries:
     name: my-app
     type: application
     urls:
-    - https://github.com/massimilianocorsi/helm-example/my-app-0.1.0.tgz
+    - https://raw.githubusercontent.com/massimilianocorsi/helm-example/gh-pages/my-app-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-27T16:59:19.581144183+02:00"
